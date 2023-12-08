@@ -14,4 +14,4 @@ Para jugar al ajedrez deberá descargar todo el repositorio como un archivo *.zi
 - Youtube: [https://www.youtube.com/watch?v=U4ogK0MIzqk], [https://www.youtube.com/watch?v=X-e0jk4I938&t=136s], [https://www.youtube.com/watch?v=OpL0Gcfn4B4]
 - Github: [https://github.com/AlejoG10/python-chess-ai-yt]
 
-PD: Es una primera versión que ha costado bastante, espero que sea buena :)
+PD: Es una primera versión que ha costado bastante y que no podría haber hecho sin la ayuda de youtube y chatGPT, espero que sea buena :)
